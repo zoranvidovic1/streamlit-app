@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+pydeck
+pvlib
+bcrypt
+requests
+openpyxl
+supabase
+fpdf
+kaleido
+
